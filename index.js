@@ -1,1 +1,4 @@
-console.log("hey spiderman!")
+const print=()=>{
+  console.log("hey spiderman!");
+}
+print;
