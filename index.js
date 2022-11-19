@@ -1,4 +1,1 @@
-const print=()=>{
-  console.log("hey spiderman!");
-}
-print();
+console.log("Hello Node")
